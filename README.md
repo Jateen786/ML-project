@@ -20,3 +20,4 @@ Recommends a playlist of songs based on the detected mood.
 Clone the repository.
 Install the required dependencies using requirements.txt.
 Run the project and enjoy mood-based music suggestions!
+If you need any help feel free to contact ranajateen143@gmail.com . I am happy to provide more files for this project
